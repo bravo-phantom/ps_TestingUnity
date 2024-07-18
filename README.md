@@ -16,4 +16,6 @@
 <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDR4ZG9zZWcwMzhqenhrZTVtd2tqcmdpeWY4OTg0OHI1YWN1bjZwOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/MelhioWPAo6k4Q6BTp/giphy.gif"  width="250" align="left">
 <img src = "https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXJuY2U0c3VzYzQ1bG52b3hjbjQ2ODhsbG5zb2E3MmRjeXpkbzV6YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bcYumGVpRqfvMuQMBu/giphy.gif"  height="300" align="centre">
 
+what is this merge feature
+
 </div>
