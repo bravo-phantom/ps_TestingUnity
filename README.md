@@ -8,7 +8,7 @@
 
 <div id="intro" align="center">
   
-  This is my test repository ☀️ Anything new in Unity or GitHub - I was/will be testing here!
+  This is my test repository ☀️ Anything new in Unity or GitHub - Will be tested here!
 
   **What You Need To Do :**
 
